@@ -31,14 +31,14 @@
   height: 60px;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen {
   #screenMeetLiveContainer.cb-videomaximized {
     transform: scale(.65, .65);
     transform-origin: 0% 0%;
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen {
   .start-position.cb-videomaximized {
     left: 10px;
     top: calc(100% - 285px);
