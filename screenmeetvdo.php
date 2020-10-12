@@ -14,8 +14,8 @@
   box-shadow: 0px 0px 40px -5px rgba(0,0,0,0.6);
   transition-property: width, height, top, left, transform;
   transition-duration: .5s;
-  width: 450px;
-  height: 520px;
+  width: 350px;
+  height: 420px;
 }
 
 #screenMeetLiveContainer.cb-videoclosed {
